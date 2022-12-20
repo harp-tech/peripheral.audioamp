@@ -2,7 +2,8 @@
 
 ## General description
 
-Low distortion, high bandwidth audio amplifier for use in high fidelity applications to drive high quality sounds to speakers
+Low distortion, high bandwidth audio amplifier for use in high fidelity applications to drive high-quality sounds to speakers.
+
 !["harpaudioamplifier"](./docs/assets/pcb.png)
 
 ----
@@ -13,7 +14,7 @@ Low distortion, high bandwidth audio amplifier for use in high fidelity applicat
 
 | Peripheral HW Version 	| Board           	                                                | Board HW Version 	| Notes                            	|
 |-----------------------	|-----------------	                                                |------------------	|----------------------------------	|
-| **2.0**                 | [Device.SoundBoard](https://github.com/harp-tech/) 	| > 2.0             |                                	|
+| **2.0**                 | [Device.SoundBoard](https://github.com/harp-tech/device.soundboard) 	| > 2.0             |                                	|
 ----
 
 ## Key Features
