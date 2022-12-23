@@ -4,7 +4,7 @@
 
 Low distortion, high bandwidth audio amplifier for use in high fidelity applications to drive high-quality sounds to speakers.
 
-!["harpaudioamplifier"](./docs/assets/pcb.png)
+!["harpaudioamplifier"](./Assets/pcb.png)
 
 ----
 
