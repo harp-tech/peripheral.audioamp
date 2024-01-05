@@ -14,7 +14,7 @@ Low distortion, high bandwidth audio amplifier for use in high fidelity applicat
 
 | Peripheral HW Version 	| Board           	                                                | Board HW Version 	| Notes                            	|
 |-----------------------	|-----------------	                                                |------------------	|----------------------------------	|
-| **2.0**                 | [Device.SoundBoard](https://github.com/harp-tech/device.soundboard) 	| > 2.0             |                                	|
+| **2.0**                 | [Device.SoundBoard](https://github.com/harp-tech/device.soundboard) 	| >= 1.0             |                                	|
 ----
 
 ## Key Features
@@ -33,6 +33,13 @@ Low distortion, high bandwidth audio amplifier for use in high fidelity applicat
 * 1x RCA input
 * 2x 4mm banana outputs
 * 1x power switch
+
+----
+
+## Speakers
+
+* Audio speakers with ~4 Ohms or higher can be used with this amplifier
+* The XT25SC90-04 speaker from Peerless by Tymphany is recommended due to its good frequency response up to 80 kHz
 
 ----
 
