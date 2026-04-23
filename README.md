@@ -29,6 +29,9 @@ Low distortion, high bandwidth audio amplifier for use in high fidelity applicat
 
 ## Connectivity
 
+> [!CAUTION]
+> Don't plug the same 12V power supply to both 12V supply inputs! Connecting the same 12V power supply to both supply inputs will short the circuit due to how the inputs are routed internally. Use only isolated 12V output power supplies.
+
 * 2x 12V supply input
 * 1x RCA input
 * 2x 4mm banana outputs
